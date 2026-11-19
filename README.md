@@ -1,2 +1,2 @@
 # studytrack
-StudyTrack
+StudyTracker
