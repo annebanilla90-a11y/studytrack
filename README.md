@@ -1,2 +1,2 @@
-# studytrack
+# Study Tracker
 StudyTracker
